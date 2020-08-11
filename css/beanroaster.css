@@ -100,3 +100,30 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+.td1 {
+    width:15%;
+}
+
+.td2 {
+    width:61%;
+}
+
+.td3 {
+    width:24%;
+    text-align:center;
+}
+
+.td4 {
+    width:80%;
+}
+
+.td5 {
+    width:20%;
+    text-align:left;
+}
+
+.commentsDiv {
+    width:622px;
+    text-align:center;
+}
